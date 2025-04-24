@@ -23,4 +23,8 @@ public class ToDoDTO {
     private boolean completed;
 
     private boolean importanted;
+
+    private LocalDateTime createDate;
+
+    private LocalDateTime updateDate;
 }
